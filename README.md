@@ -35,7 +35,7 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 
 ![Captura de tela de 2024-05-26 20-48-02](https://github.com/jonathanspereira/dio-desafio-java-modelagem-uml-iphone/assets/135556100/5915cc17-8861-46c9-afd2-d257a59995d1)
 
-- O diagrama foi desenvolvipor na ferramenta Astah. o arquivo do diagrama está [disponivel aqui]()
+- O diagrama foi desenvolvido na ferramenta Astah. o arquivo do diagrama está [disponivel aqui](uml/classes iphone.asta)
 
 
 ### Referências:
